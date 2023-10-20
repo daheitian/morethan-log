@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "hooozzz",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: " 一个设计师",
-    bio: "I develop everything using node.",
+    role: " 一个室内设计师",
+    bio: "这个博客是记录好室的，需要慢慢迁移过来",
     email: "daheitian@foxmail.com",
     linkedin: "hooozzz",
     github: "hooozzz",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `apaper`,
-      href: "https://web.okjike.com/",
+      href: "https://web.okjike.com/originalPost/652f42e35110e2545532fe98",
     },
   ],
   // blog setting (required)
@@ -25,7 +25,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://hooozzz.vercel.app/",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
