@@ -1,9 +1,8 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "hooozzz",
-    image: ""/></g></svg>
-", //you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "好室咨询hooozzz",
+    image:"/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "好室咨询",
     bio: "一个优秀的室内设计咨询服务平台，为您和您的家庭找到最合适的设计企业",
     email: "daheitian@foxmail.com",
